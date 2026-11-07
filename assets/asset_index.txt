@@ -15,6 +15,7 @@ tex/benchad_3.png
 tex/boxes.png
 tex/cat_face.png
 tex/cat_torso_front.png
+tex/coin_atlas.png
 tex/cone.png
 tex/duck_board.png
 tex/facade_a.png
